@@ -1,6 +1,6 @@
 # 🛍️ Customer Segmentation for Retail Sales using RFM Analysis  
 
-This repository demonstrates a comprehensive project focused on analyzing retail sales data to gain actionable insights using **RFM (Recency, Frequency, Monetary)** analysis. By leveraging **SQL** for data segmentation and **Tableau** for visualization, the project explores customer purchase patterns, designs interactive dashboards, and proposes data-driven strategies to boost sales and customer retention.  
+This repository demonstrates a comprehensive project focused on analyzing retail sales data to gain actionable insights using **RFM (Recency, Frequency, Monetary)** analysis. By leveraging **SQL** for data segmentation and **PowerBI** for visualization, the project explores customer purchase patterns, designs interactive dashboards, and proposes data-driven strategies to boost sales and customer retention.  
 
 ---
 
@@ -22,7 +22,7 @@ Segmented customers into meaningful categories using **Recency, Frequency, and M
 - Querying and analyzing large datasets for customer segmentation.  
 - Advanced queries for extracting business insights.  
 
-### ✅ **Tableau**  
+### ✅ **PowerBI**  
 Designed interactive dashboards to visualize customer behavior and sales trends.  
 
 ---
@@ -78,7 +78,7 @@ ORDER BY Month;
 
 ## 📈 **Dashboards**  
 
-Using **Tableau**, I created dynamic dashboards to visualize and analyze sales data:  
+Using **PowerBI**, I created dynamic dashboards to visualize and analyze sales data:  
 
 1. **Customer Segmentation Dashboard**: Visualized customer segments like *Loyal Customers*, *Lost Customers*, and *Potential Churners*.  
 2. **Product Analysis Dashboard**: Showcased high-performing products, sales trends, and seasonal insights.  
@@ -133,7 +133,7 @@ Using **Tableau**, I created dynamic dashboards to visualize and analyze sales d
 ## 📂 **Repository Structure**  
 
 - **`/SQL`**: Contains all SQL scripts used for analysis and segmentation.  
-- **`/Dashboards`**: Tableau files showcasing interactive dashboards.  
+- **`/Dashboards`**: PowerBI files showcasing interactive dashboards.  
 - **`/Docs`**: Documentation on business strategies, methodologies, and insights.  
 - **`README.md`**: Project overview  
 
